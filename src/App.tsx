@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import { FaGithub, FaReact, FaNodeJs, FaPython, FaMobileAlt, FaEnvelope, FaPhone, FaArrowRight } from "react-icons/fa";
 import { SiFlutter, SiTypescript, SiPostgresql, SiMongodb } from "react-icons/si";
+import profileImg from "./assets/profile.png";
 
 function App() {
   return (
@@ -58,7 +59,7 @@ function App() {
             className="flex justify-center"
           >
             <img
-              src="/profile.png"
+              src={profileImg}
               alt="Lestiwege Mufutumari"
               className="rounded-3xl w-[380px] md:w-[420px] shadow-2xl border border-cyan-400"
             />

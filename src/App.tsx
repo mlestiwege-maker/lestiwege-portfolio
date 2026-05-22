@@ -211,7 +211,7 @@ function App() {
                 <span className="text-sm">+263 789 728 509</span>
               </a>
               <a
-                href="https://wa.me/263712246543?text=Hi%20Lestiwege%21%20I%27m%20interested%20in%20your%20development%20services.%20Can%20we%20discuss%20how%20you%20can%20help%20with%20my%20project%3F"
+                href="https://wa.me/263712246543?text=Hi%20Lestiwege%21%20I%27m%20impressed%20with%20your%20software%20development%20expertise.%20Let%27s%20discuss%20how%20your%20innovative%20solutions%20can%20help%20transform%20my%20business."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-3 bg-slate-950 border border-slate-700 px-6 py-4 rounded-xl hover:border-cyan-400 hover:bg-green-900/20 transition-all duration-300"

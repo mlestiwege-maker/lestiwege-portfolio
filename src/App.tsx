@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { FaGithub, FaReact, FaNodeJs, FaPython, FaMobileAlt, FaEnvelope, FaPhone, FaArrowRight } from "react-icons/fa";
+import { FaGithub, FaReact, FaNodeJs, FaPython, FaMobileAlt, FaEnvelope, FaPhone, FaArrowRight, FaWhatsapp } from "react-icons/fa";
 import { SiFlutter, SiTypescript, SiPostgresql, SiMongodb } from "react-icons/si";
 import profileImg from "./assets/profile.png";
 
@@ -209,6 +209,15 @@ function App() {
               >
                 <FaPhone className="text-xl" />
                 <span className="text-sm">+263 789 728 509</span>
+              </a>
+              <a
+                href="https://wa.me/263712246543?text=Hi%20Lestiwege%21%20I%20would%20love%20to%20connect%20with%20you.%20I%20see%20you%27re%20a%20talented%20full-stack%20and%20mobile%20developer%20specializing%20in%20React%2C%20Flutter%2C%20Node.js%2C%20FastAPI%2C%20and%20PostgreSQL.%20I%27m%20very%20interested%20in%20discussing%20collaboration%20opportunities%2C%20your%20innovative%20projects%2C%20or%20potential%20partnerships.%20Looking%20forward%20to%20connecting%20with%20you%21"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-3 bg-slate-950 border border-slate-700 px-6 py-4 rounded-xl hover:border-cyan-400 transition-colors"
+              >
+                <FaWhatsapp className="text-xl" />
+                <span className="text-sm">+263 712 246 543</span>
               </a>
             </div>
           </motion.div>
